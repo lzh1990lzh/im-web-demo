@@ -68,7 +68,7 @@ function handleChange(value) {
   console.log(`selected ${value}`);
 }
 function showModal(){
-  alert("11");
+  //alert("11");
 }
 
 
